@@ -7,7 +7,6 @@ public class Main {
         String s1 = "Race a car";
         String s2 = "A man, a plan, a canal: Panama";
         System.out.println(ss.isPalindrome(s1));
-//        System.out.println(ss.isPalindrome(s2));
     }
 }
 
